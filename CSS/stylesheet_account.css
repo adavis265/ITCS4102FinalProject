@@ -1,0 +1,6 @@
+/*
+This sets the deposit/withdrawl box to be hidden by default on page load
+*/
+#input-amount{
+  visibility: hidden;
+}
